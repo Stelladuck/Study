@@ -28,8 +28,8 @@ void main() {
 		}
 	}
 
-	printf("Sorted list in ascending order : \t");
-	for (i = 0; i < n; i++) { printf( "%d", *(array + i) ); }
+	printf( "Sorted list in ascending order : \t" );
+	for ( i = 0; i < n; i++ ) { printf( "%d", *(array + i) ); }
 
-	free(array);	// Deallocate the memory.
+	free( array );	// Deallocate the memory.
 }
