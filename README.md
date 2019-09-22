@@ -1,24 +1,3 @@
-## 프로젝트 제목 (PROJECT TITLE)
-프로젝트 제목 없습니다.
+## 공부 중 작성한 스크립트 모음
 
-## 설치방법 (INSTALLATION)
-...
-
-## 사용방법 (USUAGE)
-...
-
-## 기여방법 (CONTRIBUTION)
-...
-
-## 라이센스 (LICENSE)
-...
-
-## 버그들 (KNOWN BUGS)
-...
-
-## FAQ (FREQUENTLY ASKED QUESTIONS)
-...
-
-## TOC (TABLE OF CONTENTS)
-...
-
+업로드 될 프로그래밍 언어는 주로 R과 C/C++ 위주로 구성되어 있습니다.
